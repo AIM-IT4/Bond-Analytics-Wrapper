@@ -39,7 +39,7 @@ print("Clean Price:", clean_price)
 
 ## Contributing
 
-Contributions are welcome! Please read the contributing guidelines before making any changes.
+Contributions are welcome! Please get in touch here : jha.8@iitj.ac.in
 
 ## License
 
